@@ -71,7 +71,7 @@
     "name": "Nome",
     "country": "Nazione",
     "rate": "Valutazione",
-    "waiter": "Esperando jugador",
+    "waiter": "Esperando jugador", "Aspettando giocatore",
     "thinking_time": "Tempo",
     "handicap": "Handicap",
     "black": "Nero",
